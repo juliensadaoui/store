@@ -9,6 +9,10 @@
         "main": "Entities",
         "accountancyInvoice": "Invoice",
         "accountancyShipment": "Shipment",
+        "crmProduct": "Product",
+        "crmCustomer": "Customer",
+        "crmProductOrder": "Product Order",
+        "crmOrderItem": "Order Item",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
